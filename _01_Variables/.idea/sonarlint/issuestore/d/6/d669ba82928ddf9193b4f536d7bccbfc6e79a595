@@ -1,0 +1,43 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "myFloat".(ÿóÅÁ8ÏŒò«®1
+]
+java:S1854";Remove this useless assignment to local variable "myChar2".(ëçø®üÿÿÿÿ8ÏŒò«®1
+W
+java:S1854":Remove this useless assignment to local variable "myChar".(Û”ûõ8ÏŒò«®1
+^
+java:S1854"<Remove this useless assignment to local variable "myDouble".(ðóÒùÿÿÿÿ8ÐŒò«®1
+W
+java:S1854":Remove this useless assignment to local variable "myLong".(ª”ƒ 8ÐŒò«®1
+]
+java:S1854";Remove this useless assignment to local variable "myShort".(âÝùþøÿÿÿÿ8ÐŒò«®1
+\
+java:S1854":Remove this useless assignment to local variable "myByte".(¹§ó÷øÿÿÿÿ8ÐŒò«®1
+\
+java:S1854":Remove this useless assignment to local variable "number".(¾êâÈûÿÿÿÿ8ÐŒò«®1
+M
+java:S1481"+Remove this unused "number" local variable.(¾êâÈûÿÿÿÿ8ÒŒò«®1
+M
+java:S1481"+Remove this unused "myByte" local variable.(¹§ó÷øÿÿÿÿ8ÒŒò«®1
+N
+java:S1481",Remove this unused "myShort" local variable.(âÝùþøÿÿÿÿ8ÓŒò«®1
+H
+java:S1481"+Remove this unused "myLong" local variable.(ª”ƒ 8ÓŒò«®1
+O
+java:S1481"-Remove this unused "myDouble" local variable.(ðóÒùÿÿÿÿ8ÓŒò«®1
+H
+java:S1481"+Remove this unused "myChar" local variable.(Û”ûõ8ÓŒò«®1
+N
+java:S1481",Remove this unused "myChar2" local variable.(ëçø®üÿÿÿÿ8ÔŒò«®1
+P
+java:S1481".Remove this unused "myBoolean" local variable.(Ÿ™øíûÿÿÿÿ8ÕŒò«®1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ÿ™øíûÿÿÿÿ8ÕŒò«®1
+I
+java:S1481",Remove this unused "myFloat" local variable.(ÿóÅÁ8ÕŒò«®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ×Û—üÿÿÿÿ8ÂÅ÷«®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öÿÿ ûÿÿÿÿ8ÂÅ÷«®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ×Û—üÿÿÿÿ8ÃÅ÷«®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.( Ÿ“•8ÃÅ÷«®1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Öå–48ÃÅ÷«®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥µÿ“ûÿÿÿÿ8ÄÅ÷«®1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ž¦Ò¿øÿÿÿÿ8ÄÅ÷«®1
