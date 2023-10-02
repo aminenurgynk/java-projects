@@ -1,3 +1,9 @@
 
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ıÁ³ÿÿÿÿÿ8Ğ“ö¬®1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 6 times.(Ù¿éûÿÿÿÿ8Ö»Î‹¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ç»Î‹¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8è»Î‹¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8é»Î‹¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ê»Î‹¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ê»Î‹¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ë»Î‹¯1
