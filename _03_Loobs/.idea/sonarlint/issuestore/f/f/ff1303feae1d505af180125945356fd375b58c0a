@@ -1,0 +1,16 @@
+
+_
+java:S2184^"BCast one of the operands of this division operation to a "double".(ä½ˆá8¼ÁİŒ¯1
+\
+java:S3518^"?Make sure "oddNumber" can't be zero before doing this division.(ä½ˆá8îÁİŒ¯1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(éèùçşÿÿÿÿ8òÁİŒ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²ÉÇøúÿÿÿÿ8ôÁİŒ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­¥‚§øÿÿÿÿ8ôÁİŒ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òü­×şÿÿÿÿ8õÁİŒ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–Óøòÿÿÿÿÿ8õÁİŒ¯1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(§ÉÅûşÿÿÿÿ8õÁİŒ¯1
+]	java:S125$"<This block of commented-out lines of code should be removed.(Õõãùÿÿÿÿ8”ßŒ¯1
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(‡õß8öÁİŒ¯1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(¯îËŒ8ùÁİŒ¯1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Ò·Àóüÿÿÿÿ8ùÁİŒ¯1
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ÈêÊÓ8ùÁİŒ¯1
