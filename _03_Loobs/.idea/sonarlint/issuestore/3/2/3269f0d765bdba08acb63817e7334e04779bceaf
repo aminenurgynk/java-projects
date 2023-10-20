@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïú˜Æúÿÿÿÿ8ô…„ñ´1
+_
+java:S2184"BCast one of the operands of this addition operation to a "double".(‚¹ô8Œ«ñ´1
+b
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(€Ä­š8Œ«ñ´1
+d
+java:S2184&"HCast one of the operands of this multiplication operation to a "double".(êÿÓ8Œ«ñ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ˆ¶øÿÿÿÿ8‘«ñ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÖùĞƒ8’«ñ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒªé÷8’«ñ´1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(²Ì²¤ıÿÿÿÿ8“«ñ´1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(€ÁŠæ8“«ñ´1
